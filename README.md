@@ -16,7 +16,7 @@ Also we provide Mobile Hadware and Software Tainings.
 
 ## 📚 Get Started
 
-- Browse our [repositories](https://github.com/<SCEA-Computer-Training-Academy>?tab=repositories) for sample code, learning materials, and projects.
+- Browse our [repositories](https://github.com/<Scea.github>?tab=repositories) for sample code, learning materials, and projects.
 - Read our course materials and guides in each repo’s README file.
 - Join the conversation in [Discussions](https://github.com/orgs/<Scea.github>/discussions) or via Issues.
 - Find us at: [Official Website](https://sites.google.com/shahmeen.org/shahmeenacademy?usp=sharing)  
