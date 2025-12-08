@@ -1,8 +1,10 @@
 <div align="center">
 
 ## SCEA ACADEMY
-  
+
+
 ## Computer Training Academy
+
 
 <div align="center">
 <picture>
@@ -10,6 +12,7 @@
   <img src="assets/images/logo.jpg" alt="logo" width="600">
 </picture>
 </div>
+
 
 Welcome to SCEA Computer Training Academy’s official GitHub Organization!
 
