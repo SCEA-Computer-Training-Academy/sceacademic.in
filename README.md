@@ -1,8 +1,8 @@
 <div align="center">
 
-# SCEA ACADEMY
+## SCEA ACADEMY
   
-# Computer Training Academy
+## Computer Training Academy
 
 <div align="center">
 <picture>
