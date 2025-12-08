@@ -11,7 +11,9 @@
 </picture>
 </div>
 
-Welcome to SCEA Computer Training Academy’s official GitHub organization!
+Welcome to SCEA Computer Training Academy’s official GitHub Organization!
+
+<div align="left">
 
 We offer high-quality computer training programs, certifications, and hands-on projects to equip learners with practical IT skills. Our instructors are industry experts in Software Development, Data Science, Cybersecurity, Networking, Ethical Hacking, Cloud Computing and Web Technologies.
 
@@ -31,6 +33,13 @@ Also we provide Mobile Hadware and Software Tainings.
 - Join the conversation in [Discussions](https://github.com/Shahbaig-6389/Fictional-Invention) or via Issues.
 - Find us at: [Official Website](https://sites.google.com/shahmeen.org/shahmeenacademy?usp=sharing)  
 - Contact: [info@sceaacademy.org](mailto:info@sceaacademy.org)
+
+<div align="right">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/logo-footer.png">
+  <img src="assets/images/logo-footer.png" alt="logo" width="200">
+</picture>
+</div>
 
 ---
 
