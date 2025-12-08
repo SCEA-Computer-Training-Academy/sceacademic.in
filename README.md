@@ -1,8 +1,8 @@
 # SCEA ACADEMY
 # Computer Training Academy
-git add assets/images/logo.jpg
-git commit -m "Add logo image"
-git push
+# git add assets/images/logo.jpg
+# git commit "Add logo image"
+# git push
 
 Welcome to SCEA Computer Training Academy’s official GitHub organization!
 
