@@ -1,5 +1,15 @@
+<div align="center">
+
 # SCEA ACADEMY
+  
 # Computer Training Academy
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/images/logo.jpg">
+  <img src="assets/images/logo.jpg" alt="logo" width="600">
+</picture>
+</div>
 
 Welcome to SCEA Computer Training Academy’s official GitHub organization!
 
