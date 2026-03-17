@@ -1,6 +1,6 @@
 <div align="center">
 
-## SCEA ACADEMY
+## SCEA🖥️ ACADEMY🎓
 
 
 ## Computer Training Academy
