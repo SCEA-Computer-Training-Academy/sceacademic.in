@@ -50,3 +50,5 @@ Also we provide Mobile Hadware and Software Tainings.
 ---
 
 **Follow us for updates, new courses, and open-source projects!**
+
+https://github.com/SCEA-Computer-Training-Academy/.github/blob/22c810f72522269d55162171ffd5a46a7fd29662/README.md
